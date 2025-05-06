@@ -1,6 +1,6 @@
 ## Hi, I'm Moh. Bahrul 'Ulum 👋
 
-![Ulum Dev](img/github-header-image.png)
+<!-- ![Ulum Dev](img/github-header-image.png) -->
 
 <!--
 **ulumdev/ulumdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
