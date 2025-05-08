@@ -85,12 +85,12 @@
 <table align="center" border="0">
 <tr border="none">
 <td width="50%" align="center" border="0">
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ulumdev&theme=algolia&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ulumdev&theme=algolia&border_radius=8&show_icons=true&count_private=true" />
   <br></br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ulumdev&theme=algolia&hide_border=true&border_radius=8" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ulumdev&theme=algolia&border_radius=8" alt="GitHub Streak" />
 </td>
 <td width="50%" align="center" border="0">
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ulumdev&theme=algolia&hide_border=false&no-bg=true&no-frame=true&langs_count=6"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ulumdev&theme=algolia&hide_border=false&border_radius=8&no-bg=true&no-frame=true&langs_count=6"/>
 </td>
 </tr>
 </table>
