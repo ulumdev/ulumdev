@@ -4,10 +4,18 @@
 - 🧛 I have expertise in **Mobile & Web** Development
 - 🌱 I’m currently learning **Flutter & Laravel** Framework
 - 👯 I’m looking for help with **Stack Overflow & Programmer Forums**
-<!-- - 📫 You can reach me at **belajarkoding97@gmail.com** -->
-- :nerd_face: Always `learning new things`.
+- 📫 You can reach me at **belajarkoding97@gmail.com**
+<!-- - :nerd_face: Always `learning new things`. -->
 - :thinking: I’m currently open for a new `job opportunity`, this is [My Resume](#).
 - :boom: You can visit [My Website](#).
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ulumdev/ulumdev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ulumdev/ulumdev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ulumdev/ulumdev/output/pacman-contribution-graph.svg">
+</picture>
 
 ## 🤝 Connect with Me
 
@@ -102,10 +110,12 @@
 </tr>
 </table>
 
-### 🔥 
+<!-- ### 🔥
+
 <img src="https://raw.githubusercontent.com/ulumdev/ulumdev/output/snake.svg" alt="Snake animation" />
 
-###
+### -->
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ulumdev/ulumdev/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ulumdev/ulumdev/output/pacman-contribution-graph.svg">
