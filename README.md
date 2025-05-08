@@ -40,7 +40,6 @@
   <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap&logoColor=white" height="22px"/>
   <img src="https://img.shields.io/badge/firebase-ffca28?style=plastic&logo=firebase&logoColor=black" height="22px"/>
   <img src="https://img.shields.io/badge/Font_Awesome-339AF0?style=plastic&logo=fontawesome&logoColor=white" height="22px"/>
-  <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=plastic&logo=mui&logoColor=white" height="22px"/>
 </div>
 
 ### Tools & Database
