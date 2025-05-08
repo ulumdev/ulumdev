@@ -19,7 +19,7 @@
 
 ## 🛠️ My Skills
 
-#### Programming Languages
+### Programming Languages
 
 <div align="center">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=dart&logoColor=white" height="22px"/>
@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/-JavaScript-eed718?style=plastic&logo=javascript&logoColor=ffffff" height="22px"/>
 </div>
 
-#### Frameworks & Library
+### Frameworks & Library
 
 <div align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=flutter&logoColor=white" height="22px"/>
@@ -43,7 +43,7 @@
   <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=plastic&logo=mui&logoColor=white" height="22px"/>
 </div>
 
-#### Tools & Database
+### Tools & Database
 
 <div align="center">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=plastic&logo=mysql&logoColor=white" height="22px"/>
@@ -62,7 +62,7 @@
   <img src="https://img.shields.io/badge/OpenJDK-ED8B00?style=plastic&logo=openjdk&logoColor=white" height="22px"/>
 </div>
 
-#### Software & IDEs
+### Software & IDEs
 
 <div align="center">
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white" height="22px">
@@ -72,7 +72,7 @@
 <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=plastic&logo=sublime-text&logoColor=important" height="22px"/>
 </div>
 
-#### Operating System
+### Operating System
 
 <div align="center">
 <img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white" height="22px"/>
@@ -101,8 +101,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ulumdev/ulumdev/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ulumdev/ulumdev/output/pacman-contribution-graph.svg">
 </picture>
-
-###
 
 ## 🤝 Connect with Me
 
