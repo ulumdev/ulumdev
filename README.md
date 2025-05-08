@@ -1,15 +1,22 @@
 <h1 align="center">Hi, I'm Moh. Bahrul 'Ulum 👋</h1>
-<h3 align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=1BDCFF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Software+Engineer;Mobile+%26+Web+Developer" alt="Typing SVG" /></h3>
+<p align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=1BDCFF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Software+Engineer;Mobile+%26+Web+Developer" alt="Typing SVG"/></p>
 
 - 🧛 I have expertise in **Mobile & Web** Development
 - 🌱 I’m currently learning **Flutter & Laravel** Framework
-- 🤔 I’m looking for help with **Stack Overflow & Programmer Forums**
-- 📫 You can reach me at **belajarkoding97@gmail.com**
+- 👯 I’m looking for help with **Stack Overflow & Programmer Forums**
+<!-- - 📫 You can reach me at **belajarkoding97@gmail.com** -->
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [My Resume](#).
 - :boom: You can visit [My Website](#).
 
-## 🤝 Connect with Me 
+####
+<div align="center">
+<img src="https://raw.githubusercontent.com/ulumdev/ulumdev/output/snake.svg" alt="Snake animation" />
+</div>
+
+####
+
+## 🤝 Connect with Me
 
 <p align="center">
     <a href="https://github.com/ulumdev/" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white" alt="GitHub" height="24px"/></a>
@@ -24,21 +31,19 @@
 
 ## 🛠️ My Skills
 
-### Programming Languages
+#### Programming Languages
 
 <div align="center">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=plastic&logo=dart&logoColor=white" height="24px"/>
   <img src="https://img.shields.io/badge/Kotlin-B125EA?style=plastic&logo=kotlin&logoColor=white" height="24px"/>
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white" height="24px">
-  </a>
+  <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white" height="24px">
   <img src="https://img.shields.io/badge/-PHP-6363ff?style=plastic&logo=php&logoColor=ffffff" height="24px">
   <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white" height="24px"/> 
   <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3&logoColor=white" height="24px"/>
   <img src="https://img.shields.io/badge/-JavaScript-eed718?style=plastic&logo=javascript&logoColor=ffffff" height="24px"/>
 </div>
 
-### Frameworks & Library
+#### Frameworks & Library
 
 <div align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=plastic&logo=flutter&logoColor=white" height="24px"/>
@@ -50,7 +55,7 @@
   <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=plastic&logo=mui&logoColor=white" height="24px"/>
 </div>
 
-### Tools & Database
+#### Tools & Database
 
 <div align="center">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=plastic&logo=mysql&logoColor=white" height="24px"/>
@@ -69,7 +74,7 @@
   <img src="https://img.shields.io/badge/OpenJDK-ED8B00?style=plastic&logo=openjdk&logoColor=white" height="24px"/>
 </div>
 
-### Software & IDEs
+#### Software & IDEs
 
 <div align="center">
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white" height="24px">
@@ -79,7 +84,7 @@
 <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=plastic&logo=sublime-text&logoColor=important" height="24px"/>
 </div>
 
-### Operating System
+#### Operating System
 
 <div align="center">
 <img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white" height="24px"/>
@@ -88,9 +93,8 @@
 <img src="https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=android&logoColor=white" height="24px"/>
 </div>
 
-###
+## 📊 My GitHub Stats
 
-<h2>My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 25px> </h2>
 <table align="center" border="0">
 <tr border="none">
 <td width="50%" align="center" border="0">
@@ -105,10 +109,5 @@
 </tr>
 </table>
 
-###
-
 <br clear="both">
-
 <img src="https://raw.githubusercontent.com/ulumdev/ulumdev/output/snake.svg" alt="Snake animation" />
-
-###
