@@ -93,18 +93,10 @@
 <td width="50%" align="center" border="0">
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ulumdev&theme=algolia&hide_border=false&no-bg=true&no-frame=true&langs_count=6"/>
 </td>
-
-</tr>
-<tr>
-<!-- <td colspan="2" align="center" border="0">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ulumdev/ulumdev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ulumdev/ulumdev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ulumdev/ulumdev/output/pacman-contribution-graph.svg">
-</picture>
-</td> -->
 </tr>
 </table>
+
+###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ulumdev/ulumdev/output/pacman-contribution-graph-dark.svg">
