@@ -9,13 +9,6 @@
 - :thinking: I’m currently open for a new `job opportunity`, this is [My Resume](#).
 - :boom: You can visit [My Website](#).
 
-####
-<div align="center">
-<img src="https://raw.githubusercontent.com/ulumdev/ulumdev/output/snake.svg" alt="Snake animation" />
-</div>
-
-####
-
 ## 🤝 Connect with Me
 
 <p align="center">
@@ -109,5 +102,14 @@
 </tr>
 </table>
 
-<br clear="both">
+### 🔥 
 <img src="https://raw.githubusercontent.com/ulumdev/ulumdev/output/snake.svg" alt="Snake animation" />
+
+###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ulumdev/ulumdev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ulumdev/ulumdev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ulumdev/ulumdev/output/pacman-contribution-graph.svg">
+</picture>
+
+###
