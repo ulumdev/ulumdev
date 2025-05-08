@@ -5,30 +5,17 @@
 - 🌱 I’m currently learning **Flutter & Laravel** Framework
 - 👯 I’m looking for help with **Stack Overflow & Programmer Forums**
 - 📫 You can reach me at **belajarkoding97@gmail.com**
-<!-- - :nerd_face: Always `learning new things`. -->
+- :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [My Resume](#).
 - :boom: You can visit [My Website](#).
 
-###
+<!-- ###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ulumdev/ulumdev/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ulumdev/ulumdev/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ulumdev/ulumdev/output/pacman-contribution-graph.svg">
-</picture>
-
-## 🤝 Connect with Me
-
-<p align="center">
-    <a href="https://github.com/ulumdev/" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white" alt="GitHub" height="24px"/></a>
-    <a href="https://www.instagram.com/ulumbahrul_15/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white" height="24px"/></a>
-    <a href="https://www.linkedin.com/in/moh-bahrul-ulum-463177355/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" height="24px"/></a>
-    <!-- <a href=""><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=plastic" alt="discord logo" height="24px"/></a> -->
-    <a href="mailto:belajarkoding97@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" alt="gmail logo" height="24px"/></a>
-    <!-- <a href=""><img src="" height="24px"/></a>
-    <a href=""><img src="" height="24px"/></a>
-    <a href=""><img src="" height="24px"/></a> -->
-</p>
+</picture> -->
 
 ## 🛠️ My Skills
 
@@ -105,16 +92,19 @@
 </td>
 <td width="50%" align="center" border="0">
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ulumdev&theme=algolia&hide_border=false&no-bg=true&no-frame=true&langs_count=6"/>
-  
 </td>
+
+</tr>
+<tr>
+<!-- <td colspan="2" align="center" border="0">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ulumdev/ulumdev/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ulumdev/ulumdev/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ulumdev/ulumdev/output/pacman-contribution-graph.svg">
+</picture>
+</td> -->
 </tr>
 </table>
-
-<!-- ### 🔥
-
-<img src="https://raw.githubusercontent.com/ulumdev/ulumdev/output/snake.svg" alt="Snake animation" />
-
-### -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ulumdev/ulumdev/output/pacman-contribution-graph-dark.svg">
@@ -122,4 +112,19 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ulumdev/ulumdev/output/pacman-contribution-graph.svg">
 </picture>
 
+<!-- <img src="https://raw.githubusercontent.com/ulumdev/ulumdev/output/snake.svg" alt="Snake animation" /> -->
+
 ###
+
+## 🤝 Connect with Me
+
+<p align="center">
+    <a href="https://github.com/ulumdev/" target="blank"><img src="https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white" alt="GitHub" height="24px"/></a>
+    <a href="https://www.instagram.com/ulumbahrul_15/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white" height="24px"/></a>
+    <a href="https://www.linkedin.com/in/moh-bahrul-ulum-463177355/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" height="24px"/></a>
+    <!-- <a href=""><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=plastic" alt="discord logo" height="24px"/></a> -->
+    <a href="mailto:belajarkoding97@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" alt="gmail logo" height="24px"/></a>
+    <!-- <a href=""><img src="" height="24px"/></a>
+    <a href=""><img src="" height="24px"/></a>
+    <a href=""><img src="" height="24px"/></a> -->
+</p>
